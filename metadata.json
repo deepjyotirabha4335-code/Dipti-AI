@@ -1,0 +1,6 @@
+{
+  "name": "Dipti AI",
+  "description": "Android-first, voice-to-voice AI Companion and assistant with smart intents, real-time audio streaming, and conversational database.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
